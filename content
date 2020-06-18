@@ -1,0 +1,20 @@
+KUBERNETES COURSE
+===================
+
+1. Kubernetes Fundamentals
+
+2. Setup
+   - Minikube
+   - Kubeadm
+   - Physical Setup
+
+3. Network Service
+   - ClusterIP
+   - Nodeport
+
+4. Volumes
+   - Persistent Volume (PV)
+   - Persistent Volume Claim (PVC)
+   - Mounting Local storage
+   - Mounting remote Storage (NFS/ISCSI)
+   
